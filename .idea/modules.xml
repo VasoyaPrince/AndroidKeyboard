@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AndroidKeyboard1.iml" filepath="$PROJECT_DIR$/.idea/modules/AndroidKeyboard1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.iml" filepath="$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.main.iml" filepath="$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/AdsSdk/AndroidKeyboard1.AdsSdk.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidKeyboard1.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.iml" filepath="$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.main.iml" filepath="$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/emoji/AndroidKeyboard1.emoji.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/unity-ads/AndroidKeyboard1.unity-ads.iml" filepath="$PROJECT_DIR$/.idea/modules/unity-ads/AndroidKeyboard1.unity-ads.iml" />
+    </modules>
+  </component>
+</project>
